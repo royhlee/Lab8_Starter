@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Lab8_Starter",
+    "short_name": "Roy",
     "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "start_url": "../index.html",
+    "display": "standalone",
+    "background_color": "blue",
+    "theme_color": "red",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
